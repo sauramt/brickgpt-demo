@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Environment created by install.sh
+.venv/
+venv/
+
+# Your own runs and generated pages (reference_runs/ holds the committed examples)
+results/
+
+# Local tooling
+.gpu.json
+.gradio/
+flagged/
+*.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

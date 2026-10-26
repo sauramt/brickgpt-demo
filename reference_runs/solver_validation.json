@@ -1,0 +1,12 @@
+{
+  "n_structures": 157,
+  "n_compared_with_gurobi": 25,
+  "n_too_large_for_free_gurobi": 132,
+  "n_verdict_agree": 23,
+  "n_stable_gurobi": 22,
+  "n_unstable_gurobi": 3,
+  "max_score_diff": 1.0,
+  "mean_highs_time_s": 0.004449044585987262,
+  "mean_gurobi_time_s": 0.010027999999999999,
+  "largest_n_vars_compared": 197
+}

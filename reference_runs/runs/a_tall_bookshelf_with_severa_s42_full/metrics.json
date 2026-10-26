@@ -1,0 +1,21 @@
+{
+  "prompt": "A tall bookshelf with several horizontal shelves.",
+  "seed": 42,
+  "seconds": 18.94,
+  "n_bricks": 56,
+  "n_rejections": 42,
+  "rejection_reasons": {
+    "collision": 4,
+    "already_rejected": 38
+  },
+  "n_regenerations": 0,
+  "rollbacks": [],
+  "n_stability_checks": 1,
+  "stability_time_s": 0.091,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "full",
+  "name": "a_tall_bookshelf_with_severa_s42_full",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,21 @@
+{
+  "prompt": "A small boat with a pointed bow and a flat deck.",
+  "seed": 42,
+  "seconds": 19.84,
+  "n_bricks": 38,
+  "n_rejections": 69,
+  "rejection_reasons": {
+    "collision": 2,
+    "already_rejected": 67
+  },
+  "n_regenerations": 0,
+  "rollbacks": [],
+  "n_stability_checks": 1,
+  "stability_time_s": 0.04,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "full",
+  "name": "a_small_boat_with_a_pointed_s42_full",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,20 @@
+{
+  "prompt": "A simple chair with a square seat, four legs and a tall straight backrest.",
+  "seed": 42,
+  "seconds": 20.18,
+  "n_bricks": 96,
+  "n_rejections": 1,
+  "rejection_reasons": {
+    "collision": 1
+  },
+  "n_regenerations": 0,
+  "rollbacks": [],
+  "n_stability_checks": 1,
+  "stability_time_s": 0.29,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "full",
+  "name": "a_simple_chair_with_a_square_s42_full",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

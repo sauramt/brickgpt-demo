@@ -1,0 +1,35 @@
+[project]
+name = "brickgpt"
+version = "0.1.2"
+description = "Official repository for BrickGPT"
+readme = "README.md"
+authors = [
+    { name = "Ava Pun", email = "apun@andrew.cmu.edu" }
+]
+requires-python = ">=3.10"
+dependencies = [
+    "bpy",
+    "gurobipy",
+    "numpy<2", # lower version of numpy needed for bpy
+    "peft",
+    "torch",
+    "transformers",
+]
+
+[project.optional-dependencies]
+finetuning = [
+    "trl",
+    "wandb",
+]
+
+[project.scripts]
+infer = "brickgpt.infer:main"
+prepare_finetuning_dataset = "brickgpt.prepare_finetuning_dataset:main"
+render_bricks = "brickgpt.render_bricks:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = ["pytest"]

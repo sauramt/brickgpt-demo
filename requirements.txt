@@ -1,0 +1,24 @@
+# Python dependencies of the BrickGPT demo (PyTorch is installed separately by install.sh,
+# because the right build depends on the machine: CUDA, CPU-only or Apple Silicon).
+# Tested on Ubuntu 24.04, Python 3.12, torch 2.14.1 + CUDA 13.0, RTX 5060 Laptop GPU.
+
+# Model stack, pinned to the versions in the official BrickGPT uv.lock
+transformers==4.51.3
+peft==0.15.2
+accelerate==1.6.0
+huggingface_hub>=0.30,<1.0   # transformers 4.51 needs huggingface_hub < 1.0
+
+# Physics check: HiGHS LP solver (through SciPy) replaces Gurobi, see docs/gurobi-workaround.md
+scipy>=1.11
+
+# Demo UI and rendering
+gradio==5.49.1               # gradio 6 needs huggingface_hub >= 1.0, which transformers 4.51 rejects
+numpy>=1.26
+matplotlib>=3.8
+plotly>=5.20
+imageio>=2.34
+
+# Tests and the optional solver comparison (tools/validate_solver.py).
+# gurobipy runs with its free size-limited licence; it is NOT needed for the demo.
+pytest>=8
+gurobipy>=11

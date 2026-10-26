@@ -1,0 +1,21 @@
+{
+  "prompt": "A sofa with a long seat, a backrest and two armrests.",
+  "seed": 42,
+  "seconds": 16.15,
+  "n_bricks": 74,
+  "n_rejections": 8,
+  "rejection_reasons": {
+    "collision": 4,
+    "already_rejected": 4
+  },
+  "n_regenerations": 0,
+  "rollbacks": [],
+  "n_stability_checks": 0,
+  "stability_time_s": 0.0,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "no_rollback",
+  "name": "a_sofa_with_a_long_seat_a_ba_s42_no_rollback",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,158 @@
+case,n_bricks,n_vars,highs_stable,highs_time_s,gurobi_stable,gurobi_time_s,verdict_agrees,max_score_diff,gurobi_note
+repo_test_stable,2,297,True,0.005,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+repo_test_floating,2,165,False,0.0026,False,0.0118,True,0.0,
+tower_1x1_x8,8,351,True,0.0041,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+staircase_2x4,8,811,True,0.0088,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+long_cantilever_1x2,8,363,True,0.0047,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+table,11,482,False,0.0059,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+hanging_from_top,5,336,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_000,8,757,True,0.0067,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_001,2,213,True,0.0028,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_002,4,373,True,0.0038,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_003,6,407,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_004,3,262,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_005,4,275,True,0.0032,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_006,3,238,True,0.0028,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_007,3,212,True,0.0027,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_008,3,184,True,0.0025,True,0.0132,True,0.0,
+random_009,9,780,True,0.0074,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_010,2,189,True,0.0026,False,0.0121,False,1.0,
+random_011,8,637,True,0.0069,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_012,4,227,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_013,6,397,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_014,4,425,True,0.0043,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_015,3,226,True,0.0029,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_016,6,437,True,0.0046,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_017,2,141,True,0.0022,True,0.0106,True,0.0,
+random_018,2,237,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_019,4,217,True,0.0028,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_020,6,435,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_021,4,367,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_022,3,274,True,0.0033,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_023,8,629,True,0.007,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_024,8,675,True,0.0066,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_025,6,407,True,0.0046,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_026,4,339,True,0.0035,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_027,7,566,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_028,8,529,True,0.0055,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_029,3,202,True,0.0026,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_030,6,655,True,0.0061,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_031,4,339,True,0.0035,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_032,9,620,True,0.006,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_033,2,245,True,0.0031,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_034,8,783,True,0.0071,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_035,5,480,True,0.0054,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_036,9,828,True,0.007,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_037,5,434,True,0.0045,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_038,8,589,True,0.0057,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_039,3,294,True,0.0032,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_040,6,447,True,0.0051,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_041,2,153,True,0.0023,True,0.0109,True,0.0,
+random_042,7,462,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_043,2,189,True,0.0026,True,0.012,True,0.0,
+random_044,6,457,True,0.0047,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_045,3,202,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_046,4,267,True,0.0033,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_047,3,282,True,0.0032,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_048,5,388,True,0.0045,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_049,6,659,True,0.0063,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_050,3,154,True,0.0024,True,0.0106,True,1.1102230246251565e-16,
+random_051,2,83,True,0.0019,True,0.0056,True,0.0,
+random_052,8,699,True,0.0069,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_053,8,755,True,0.0069,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_054,7,654,True,0.0064,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_055,5,544,True,0.0052,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_056,2,149,True,0.0023,True,0.0107,True,0.0,
+random_057,6,395,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_058,4,355,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_059,4,375,True,0.004,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_060,7,854,True,0.0077,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_061,5,254,True,0.0031,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_062,5,422,True,0.0042,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_063,4,363,True,0.004,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_064,2,93,True,0.002,True,0.0064,True,1.1102230246251565e-16,
+random_065,6,533,True,0.0049,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_066,8,713,True,0.0064,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_067,8,499,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_068,8,601,True,0.006,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_069,2,93,True,0.002,True,0.0064,True,0.0,
+random_070,7,632,True,0.0062,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_071,2,137,True,0.0022,True,0.0099,True,0.0,
+random_072,9,756,True,0.0079,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_073,8,887,True,0.0082,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_074,8,643,True,0.0061,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_075,7,622,True,0.0061,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_076,8,741,True,0.0071,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_077,8,677,True,0.0066,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_078,4,303,True,0.0035,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_079,6,431,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_080,8,735,True,0.0068,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_081,6,481,True,0.0047,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_082,4,369,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_083,2,105,True,0.0019,True,0.0082,True,0.0,
+random_084,9,704,True,0.0067,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_085,8,617,True,0.0061,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_086,7,404,True,0.0045,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_087,6,625,True,0.0056,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_088,8,539,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_089,8,621,True,0.0066,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_090,3,222,True,0.0028,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_091,8,783,True,0.0075,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_092,8,579,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_093,8,805,True,0.0074,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_094,4,399,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_095,4,411,True,0.004,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_096,8,591,True,0.006,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_097,3,358,True,0.0037,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_098,6,531,True,0.0051,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_099,8,621,True,0.0056,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_100,6,437,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_101,7,492,True,0.0051,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_102,2,165,True,0.0023,True,0.0114,True,0.0,
+random_103,2,177,True,0.0026,True,0.0114,True,0.0,
+random_104,6,519,True,0.005,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_105,6,419,True,0.0041,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_106,5,490,True,0.0048,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_107,8,529,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_108,3,142,True,0.0022,True,0.0109,True,0.0,
+random_109,8,627,True,0.0059,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_110,6,565,True,0.0057,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_111,5,314,True,0.0035,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_112,9,562,True,0.0054,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_113,3,138,True,0.0023,True,0.0094,True,0.0,
+random_114,3,286,True,0.0033,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_115,2,205,True,0.0029,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_116,7,504,True,0.006,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_117,7,682,True,0.0062,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_118,6,583,True,0.0054,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_119,5,476,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_120,5,378,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_121,2,197,True,0.0025,True,0.0118,True,0.0,
+random_122,5,316,True,0.0036,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_123,9,788,True,0.0074,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_124,5,438,True,0.0044,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_125,3,262,True,0.0031,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_126,6,417,True,0.0042,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_127,3,258,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_128,9,736,True,0.0067,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_129,4,389,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_130,9,512,True,0.0053,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_131,2,165,True,0.0023,False,0.011,False,1.0,
+random_132,3,210,True,0.0027,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_133,6,517,True,0.0052,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_134,5,396,True,0.0039,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_135,6,563,True,0.0055,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_136,7,478,True,0.0046,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_137,4,325,True,0.0037,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_138,3,332,True,0.0035,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_139,3,306,True,0.0033,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_140,2,189,True,0.0025,True,0.0128,True,0.0,
+random_141,2,237,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_142,4,385,True,0.0043,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_143,2,117,True,0.002,True,0.0085,True,0.0,
+random_144,4,383,True,0.0042,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_145,3,102,True,0.0019,True,0.0082,True,0.0,
+random_146,3,210,True,0.003,,,,,Model too large for size-limited license; visit https://gurobi.com/unrestricted for more information
+random_147,2,129,True,0.0021,True,0.0094,True,0.0,
+random_148,2,141,True,0.0023,True,0.0107,True,0.0,
+random_149,2,95,True,0.002,True,0.0068,True,0.0,

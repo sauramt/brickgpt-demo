@@ -1,0 +1,33 @@
+{
+  "prompt": "A small bench with a flat seat and two legs.",
+  "seed": 7,
+  "seconds": 29.25,
+  "n_bricks": 39,
+  "n_rejections": 1,
+  "rejection_reasons": {
+    "collision": 1
+  },
+  "n_regenerations": 3,
+  "rollbacks": [
+    {
+      "had": 48,
+      "kept": 9
+    },
+    {
+      "had": 45,
+      "kept": 9
+    },
+    {
+      "had": 42,
+      "kept": 9
+    }
+  ],
+  "n_stability_checks": 7,
+  "stability_time_s": 0.257,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "full",
+  "name": "a_small_bench_with_a_flat_se_s7_full",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

@@ -1,0 +1,67 @@
+{
+  "prompt": "A classic car with four wheels, a hood and a rounded roof.",
+  "seed": 42,
+  "seconds": 275.45,
+  "n_bricks": 121,
+  "n_rejections": 464,
+  "rejection_reasons": {
+    "collision": 61,
+    "already_rejected": 402,
+    "out_of_bounds": 1
+  },
+  "n_regenerations": 11,
+  "rollbacks": [
+    {
+      "had": 123,
+      "kept": 16
+    },
+    {
+      "had": 83,
+      "kept": 16
+    },
+    {
+      "had": 90,
+      "kept": 17
+    },
+    {
+      "had": 105,
+      "kept": 18
+    },
+    {
+      "had": 91,
+      "kept": 27
+    },
+    {
+      "had": 114,
+      "kept": 37
+    },
+    {
+      "had": 106,
+      "kept": 40
+    },
+    {
+      "had": 85,
+      "kept": 40
+    },
+    {
+      "had": 88,
+      "kept": 42
+    },
+    {
+      "had": 109,
+      "kept": 42
+    },
+    {
+      "had": 123,
+      "kept": 95
+    }
+  ],
+  "n_stability_checks": 27,
+  "stability_time_s": 2.499,
+  "final_stable_physics": true,
+  "final_connected": true,
+  "mode": "full",
+  "name": "a_classic_car_with_four_whee_s42_full",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}

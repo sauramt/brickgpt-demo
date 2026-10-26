@@ -1,0 +1,21 @@
+{
+  "prompt": "Table featuring a flat rectangular surface over four evenly spaced legs.",
+  "seed": 42,
+  "seconds": 59.35,
+  "n_bricks": 115,
+  "n_rejections": 155,
+  "rejection_reasons": {
+    "collision": 4,
+    "already_rejected": 151
+  },
+  "n_regenerations": 0,
+  "rollbacks": [],
+  "n_stability_checks": 0,
+  "stability_time_s": 0.0,
+  "final_stable_physics": false,
+  "final_connected": false,
+  "mode": "no_rollback",
+  "name": "table_featuring_a_flat_recta_s42_no_rollback",
+  "device": "cuda",
+  "gpu": "NVIDIA GeForce RTX 5060 Laptop GPU"
+}
