@@ -71,9 +71,9 @@ fi
 if python -c 'import torch' 2>/dev/null; then
   echo "torch already available"
 elif [ "$TORCH_MODE" = cpu ]; then
-  pip install torch --index-url https://download.pytorch.org/whl/cpu
+  pip install torch numpy --index-url https://download.pytorch.org/whl/cpu
 else
-  pip install torch   # Linux: CUDA build from PyPI; macOS: Apple Silicon (MPS) build
+  pip install torch numpy   # Linux: CUDA build from PyPI; macOS: Apple Silicon (MPS) build
 fi
 python - <<'EOF'
 import torch
